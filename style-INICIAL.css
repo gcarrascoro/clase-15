@@ -61,5 +61,5 @@ button.pago-mercado-libre::before{
   content:"Mercado Libre 💰 ";
 }
 .detalle {
-  overflow: auto;
+    overflow: auto;
 }
